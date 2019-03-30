@@ -1,0 +1,8 @@
+{
+  "accountId": "alexTest",
+  "timestamp": 34343434,
+  "belowPrice": 3434.343,
+  "abovePrice": 34376.54,
+  "hoursBelowMovingAverages": 34,
+  "hoursAboveMovingAverages": 45
+}

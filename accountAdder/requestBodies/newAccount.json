@@ -1,0 +1,11 @@
+{
+	"comment" : "this is and example of what is POSTed to the accountAdder service to create a new bot account",
+	"enabled": true,
+	"type": "IMAGINARY",
+	"api_key": "mockApiKey",
+	"secret": "mockSecretKey",
+	"profitDelta": 1,
+	"hoursToUpdate": 4,
+	"targetAmountUsd": 1000,
+	"riskFactor": 0.2,
+}
